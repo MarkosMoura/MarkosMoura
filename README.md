@@ -2,7 +2,8 @@
 
 - 🔭 Dev Front ...
 - 🌱 No Momento Estudando a tão famosa Biblioteca React.js.
-- <div align="center">
+
+<div align="center">
   <a href="https://github.com/MarkosMoura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarkosMoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkosMoura&layout=compact&langs_count=7&theme=dark"/>
